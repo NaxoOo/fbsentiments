@@ -3,7 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 from django.http import HttpResponse
 
-#import facebook
+import facebook
 import urllib
 from urllib.parse import urlparse
 import subprocess
